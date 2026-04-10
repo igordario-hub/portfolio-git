@@ -3,6 +3,7 @@ sessoes_estudo = [
     {"id": 2, "disciplina": "Cálculo", "duracao_horas": 1.5, "dia": "Terça-feira"},
     {"id": 3, "disciplina": "Engenharia de Software", "duracao_horas": 2, "dia": "Quarta-feira"},
     {"id": 4, "disciplina": "Programação", "duracao_horas": 1, "dia": "Quinta-feira"},
+    {"id": 5, "disciplina": "Banco de Dados", "duracao_horas": 2, "dia": "Sexta-feira"},
 ]
 
 def listar_sessoes():
