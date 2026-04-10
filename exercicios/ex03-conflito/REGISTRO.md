@@ -1,0 +1,1 @@
+# Registro de Resolução de Conflito
