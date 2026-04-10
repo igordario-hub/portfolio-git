@@ -1,14 +1,14 @@
 from estudos import listar_sessoes, adicionar_sessao
 from resumo import buscar_por_disciplina, calcular_total_horas
 
-print("=== Agenda de Estudos da Semana ===")
+print("=== Planejamento de Estudos ===")
 for sessao in listar_sessoes():
     print(
         f'#{sessao["id"]} - {sessao["disciplina"]} | '
         f'{sessao["duracao_horas"]}h | {sessao["dia"]}'
     )
 
-print("\n=== Busca por disciplina ===")
+print("=== Organizador de Estudos ===")
 resultado = buscar_por_disciplina("Pro")
 if resultado:
     for sessao in resultado:
