@@ -9,7 +9,7 @@ for sessao in listar_sessoes():
     )
 
 print("\n=== Busca por disciplina ===")
-resultado = buscar_por_disciplina("Programação")
+resultado = buscar_por_disciplina("Pro")
 if resultado:
     for sessao in resultado:
         print(
