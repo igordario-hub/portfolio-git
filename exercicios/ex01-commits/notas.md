@@ -1,3 +1,4 @@
+
 # Exercício 01 — Commits Semânticos
 
 Neste exercício, pratiquei o uso de commits no padrão Conventional Commits.
