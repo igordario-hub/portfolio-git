@@ -1,7 +1,7 @@
 from estudos import listar_sessoes, adicionar_sessao
 from resumo import buscar_por_disciplina, calcular_total_horas
 
-print("=== Planejamento de Estudos ===")
+print("=== Agenda de Estudos da Semana ===")
 for sessao in listar_sessoes():
     print(
         f'#{sessao["id"]} - {sessao["disciplina"]} | '
