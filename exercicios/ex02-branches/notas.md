@@ -8,3 +8,5 @@ Neste repositório, as branches foram usadas para separar mudanças de funcional
 - fix/ajusta-resumo
 
 Cada branch foi criada com um propósito específico para manter o histórico mais organizado.
+## Objetivo
+Separar cada alteração em uma branch diferente tornou o processo mais claro e organizado.

@@ -11,5 +11,6 @@ Neste exercício, pratiquei o uso de commits no padrão Conventional Commits.
 - refactor
 - test
 
-## Observação
-A proposta foi registrar as mudanças de forma clara, usando mensagens que explicam a intenção de cada alteração.
+## Aprendizado inicial
+Os commits semânticos ajudam a identificar rapidamente o objetivo de cada mudança no histórico do projeto.
+
