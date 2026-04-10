@@ -3,7 +3,7 @@ from estudos import sessoes_estudo
 def buscar_por_disciplina(nome_disciplina):
     resultados = []
     for sessao in sessoes_estudo:
-        if sessao["disciplina"].lower() == nome_disciplina.lower():
+        if nome_disciplina.lower() in sessao["disciplina"].lower():
             resultados.append(sessao)
     return resultados
 
